@@ -1,0 +1,109 @@
+{
+    "carebears": [
+        {
+            "name": "Cheer Bear",
+            "bellyBadge": "A Rainbow",
+            "home": "Care-a-Lot",
+            "image": "https://static.wikia.nocookie.net/vsbattles/images/1/1f/Cheer-bear.png/revision/latest?cb=20190724165524",
+            "likes": 0
+        }, 
+        {
+            "name": "Lotsa Heart Elephant",
+            "bellyBadge": "A Pink Triangular Hand Weight with Red Hearts",
+            "home": "Forest of Feelings",
+            "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed991cf4-7c8c-4530-b6ba-a3abf3ab2eae/ddf55ix-551c580a-1e6e-48d8-a32a-7aa01f0f57b7.png/v1/fill/w_1600,h_1975,strp/care_bears__lotsa_heart_elephant_happy_pose_2d_by_joshuat1306_ddf55ix-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTk3NSIsInBhdGgiOiJcL2ZcL2VkOTkxY2Y0LTdjOGMtNDUzMC1iNmJhLWEzYWJmM2FiMmVhZVwvZGRmNTVpeC01NTFjNTgwYS0xZTZlLTQ4ZDgtYTMyYS03YWEwMWYwZjU3YjcucG5nIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.L8J0Er894AgbtRs7r8xg0_VXYcNjtwsP-MUFfsuxF1Y",
+            "likes": 0
+        },
+        {
+            "name": "Braveheart Lion",
+            "bellyBadge": "A Red Heart with a Crown",
+            "home": "Forest of Feelings",
+            "image": "https://static.wikia.nocookie.net/carebears/images/9/92/BraveHeart80sInfobox.png/revision/latest?cb=20210317203011",
+            "likes": 0
+        }, 
+        {
+            "name": "Tenderheart Bear",
+            "bellyBadge": "A Red Heart",
+            "home": "Care-a-Lot",
+            "image": "https://carebearssingapore.com/wp-content/uploads/2020/12/Tender-Heart-Standing.png",
+            "likes": 0
+        }, 
+        {
+            "name": "Friend Bear",
+            "bellyBadge": "Two Crossed Yellow Flowers with Green Stems",
+            "home": "Care-a-Lot",
+            "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed991cf4-7c8c-4530-b6ba-a3abf3ab2eae/ddf3jb9-057ab613-4c1a-4948-b1fa-26a75f9f49a1.png/v1/fill/w_831,h_962,strp/care_bears__friend_bear_happy_pose_2d_by_joshuat1306_ddf3jb9-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE4NiIsInBhdGgiOiJcL2ZcL2VkOTkxY2Y0LTdjOGMtNDUzMC1iNmJhLWEzYWJmM2FiMmVhZVwvZGRmM2piOS0wNTdhYjYxMy00YzFhLTQ5NDgtYjFmYS0yNmE3NWY5ZjQ5YTEucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.0s9mbSAu0KTSxPft1v04qZ2CYvQRt0eYQg-iq_3gqh8",
+            "likes": 0
+        },
+        {
+            "name": "Birthday Bear",
+            "bellyBadge": "A Pink Cupcake with Blue Candle",
+            "home": "Care-a-Lot",
+            "image": "https://static.wikia.nocookie.net/thecarebearsfanon/images/5/5b/Birthday_Bear.png/revision/latest?cb=20190924141811",
+            "likes": 0
+        },
+        {
+            "name": "Funshine Bear",
+            "bellyBadge": "A Yellow Shooting Star with Three Stars",
+            "home": "Care-a-Lot",
+            "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed991cf4-7c8c-4530-b6ba-a3abf3ab2eae/dcwjsqc-f8b23864-ec5f-4c58-814f-65a49c08f78f.png/v1/fill/w_1280,h_1495,strp/care_bears__funshine_bear_2d_by_joshuat1306_dcwjsqc-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ5NSIsInBhdGgiOiJcL2ZcL2VkOTkxY2Y0LTdjOGMtNDUzMC1iNmJhLWEzYWJmM2FiMmVhZVwvZGN3anNxYy1mOGIyMzg2NC1lYzVmLTRjNTgtODE0Zi02NWE0OWMwOGY3OGYucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Fo58QX6Vp-hXtYjG0t9SkGkHyu3FA1E3AgyJTZZ5Hhg",
+            "likes": 0
+        },
+        {
+            "name": "Good Luck Bear",
+            "bellyBadge": "A Green Four-Leaf Clover",
+            "home": "Care-a-Lot",
+            "image": "https://static.wikia.nocookie.net/vsbattles/images/c/ce/Goodluckrender2.png/revision/latest?cb=20190723015814",
+            "likes": 0
+        },
+        {
+            "name": "Gentle Heart Lamb",
+            "bellyBadge": "A Pink Lace-Trimmed Heart-Shaped Pillow",
+            "home": "Forest of Feelings",
+            "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed991cf4-7c8c-4530-b6ba-a3abf3ab2eae/dcwu2de-1bbc44b6-0498-42e8-bb0d-e441272b3eca.png/v1/fill/w_1280,h_1723,strp/care_bears__gentle_heart_lamb_2d_by_joshuat1306_dcwu2de-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTcyMyIsInBhdGgiOiJcL2ZcL2VkOTkxY2Y0LTdjOGMtNDUzMC1iNmJhLWEzYWJmM2FiMmVhZVwvZGN3dTJkZS0xYmJjNDRiNi0wNDk4LTQyZTgtYmIwZC1lNDQxMjcyYjNlY2EucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.uEW6pZLiE2WAqCuW3mlcL0KWX1WEniXRkZQ9EGxLuFw",
+            "likes": 0
+        },
+        {
+            "name": "Wish Bear",
+            "bellyBadge": "A Yellow Shooting Star with Three Stars",
+            "home": "Care-a-Lot",
+            "image": "https://static.wikia.nocookie.net/carebears/images/3/32/F_wish.gif/revision/latest?cb=20190118021617",
+            "likes": 0
+        },
+        {
+            "name": "Bedtime Bear",
+            "bellyBadge": "A Moon and Stars",
+            "home": "Care-a-Lot",
+            "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dbd53966-7796-4384-a975-6a810a18caa6/denn7ky-9027d53a-dc8c-4e7f-94f8-65caecbee961.png/v1/fill/w_671,h_678,strp/bedtime_bear_yawning_png__2__by_babyshowfan_denn7ky-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njc4IiwicGF0aCI6IlwvZlwvZGJkNTM5NjYtNzc5Ni00Mzg0LWE5NzUtNmE4MTBhMThjYWE2XC9kZW5uN2t5LTkwMjdkNTNhLWRjOGMtNGU3Zi05NGY4LTY1Y2FlY2JlZTk2MS5wbmciLCJ3aWR0aCI6Ijw9NjcxIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.BY2U94o2LA_1_d89AKeORa5UqdlBElXKtdpLR0a8OFw",
+            "likes": 0
+        },
+        {
+            "name": "Swift Heart Rabbit",
+            "bellyBadge": "A Red Heart with White Wings",
+            "home": "Forest of Feelings",
+            "image": "https://static.wikia.nocookie.net/carebears/images/a/af/Swift_Heart_2003.png/revision/latest?cb=20121016033433",
+            "likes": 0
+        },
+        {
+            "name": "Grumpy Bear",
+            "bellyBadge": "A Blue Raincloud with Small Raindrops and Hearts Beneath",
+            "home": "Care-a-Lot",
+            "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed991cf4-7c8c-4530-b6ba-a3abf3ab2eae/ddfkqmk-a8f0c003-6923-4dd0-bd30-2384ebaf1654.png/v1/fill/w_1600,h_1892,strp/care_bears__grumpy_bear_happy_pose_2d_by_joshuat1306_ddfkqmk-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTg5MiIsInBhdGgiOiJcL2ZcL2VkOTkxY2Y0LTdjOGMtNDUzMC1iNmJhLWEzYWJmM2FiMmVhZVwvZGRma3Ftay1hOGYwYzAwMy02OTIzLTRkZDAtYmQzMC0yMzg0ZWJhZjE2NTQucG5nIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.TjUjw59IF3Vz4J0Bben0jY3dF9jSfmeuaTzhk60MiW4",
+            "likes": 0
+        },
+        {
+            "name": "Cozy Heart Penguin",
+            "bellyBadge": "A Red Heart with Beanie Hat",
+            "home": "Forest of Feelings",
+            "image": "https://static.wikia.nocookie.net/carebears/images/0/0d/Cozy_Heart_2003.png/revision/latest?cb=20180701043228",
+            "likes": 0
+        },
+        {
+            "name": "Bright Heart Raccoon",
+            "bellyBadge": "A Yellow Heart-Shaped Light Bulb",
+            "home": "Forest of Feelings",
+            "image": "https://i.pinimg.com/originals/7d/8d/21/7d8d219410ce5de459054c526e679e63.png",
+            "likes": 0
+        }
+    ]
+    }
