@@ -1,4 +1,3 @@
-// javascript code and functionality
 const bearDiv = document.querySelector("#bear-collection")
 const newBearForm = document.querySelector(".form")
 

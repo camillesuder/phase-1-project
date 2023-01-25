@@ -1,6 +1,6 @@
 # Care Bears and Care Bears Cousins
 
-Care Bears and Care Bears Cousins is a single-page javaScript application that allows you to view the magical characters from the Care Bear franchise.It features photos of these creatures along with information about them such as their name, Belly Badge, and where they live. Users may add their own Care Bear and give 'likes' to Care Bears they enjoy. Have fun exploring my site!
+Care Bears and Care Bears Cousins is a single-page javaScript application that allows you to view the magical characters from the Care Bear franchise.It features images of these creatures along with information about them such as their name, Belly Badge, and where they live. Users may add their own Care Bear and give 'likes' to Care Bears they enjoy. Have fun exploring my site!
 
 ![This is an image of the website!]()
 
@@ -32,6 +32,7 @@ Upon entering the web browser you may:
 * Once you click the "submit" button, you will be able to scroll down and view your Care Bear appended to the card library below. 
 
 ![This is an image of the wizard form!]()
+
 
 
 ## Further Reading
