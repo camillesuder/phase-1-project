@@ -4,6 +4,7 @@
     color: rgb(97, 52, 231);
     text-align: center;
 }
+
 .subheader {
     color: rgb(82, 231, 52);
     font-size: large;
@@ -22,23 +23,23 @@
 }
 
 body {
-        background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-        background-size: 400% 400%;
-        animation: gradient 15s ease infinite;
-        height: 100vh;
-      }
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+    height: 100vh;
+}
       
-      @keyframes gradient {
-        0% {
-          background-position: 0% 50%;
-        }
-        50% {
-          background-position: 100% 50%;
-        }
-        100% {
-          background-position: 0% 50%;
-        }
-      }
+@keyframes gradient {
+    0% {
+    background-position: 0% 50%;
+}
+    50% {
+    background-position: 100% 50%;
+}
+    100% {
+    background-position: 0% 50%;
+}
+}
     
 .bear-card{
     border: solid 7px rgba(244, 120, 37, 0.432);
@@ -54,7 +55,7 @@ body {
     border-radius: 25px;
   }  
 
-  .btn {
+.btn {
     background-color: rgb(143, 222, 244);
     color: rgba(231, 17, 17, 0.873);
     width: 50px;
@@ -66,12 +67,12 @@ body {
     text-align: center;
     margin: auto;
     border-color: transparent;
-  }
+}
 
- .form {
+.form {
   text-align: center;
   color:rgb(164, 13, 136)
-  }
+}
 
 
   
