@@ -4,10 +4,8 @@ const newBearForm = document.querySelector(".form")
 const handleLike = (likeCount) => {
     let num = parseInt(likeCount.innerText)
     num+=1
-    likeCount.innerHTML = num + ` Likes`
-}
-
-
+    likeCount.innerHTML = num + ` Likes`    
+    }
 
 const handleSubmit = (e) => {
     e.preventDefault();
@@ -20,19 +18,15 @@ const handleSubmit = (e) => {
     console.log("Form Submitted")
     renderBears(newBearObj)
     e.target.reset()
-  }
+    }
   
 const handleEnlarge = (bearImage) => {
     console.log("HELLO")
     bearImage.style.height = "300px"
     bearImage.style.width = "300px"
-}
-
-
+    }
 
 newBearForm.addEventListener("submit", handleSubmit);
-
-
 
 const renderBears = (bearObj) => {
     const bearCard = document.createElement("div")
@@ -55,19 +49,19 @@ const renderBears = (bearObj) => {
     bearName.innerText = `Name: ${bearObj.name}`
     bearBelly.innerText = `Belly Badge: ${bearObj.bellyBadge}`
     bearHome.innerText = `Home: ${bearObj.home}`
+
     bearImage.alt = bearObj.name
     bearImage.src = bearObj.image
     
     bearCard.append(bearImage, bearName, bearBelly, bearHome, likeCount, likeButton)
     bearDiv.appendChild(bearCard)
     
-}
-
-
+    }
 
 const fetchData = () => {
     fetch("http://localhost:3000/carebears")
        .then(response => response.json())
        .then(data => data.forEach(renderBears))
-}
+    }
+
 fetchData()
