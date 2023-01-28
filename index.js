@@ -4,7 +4,7 @@ const newBearForm = document.querySelector(".form")
 const handleLike = (likeCount) => {
     let num = parseInt(likeCount.innerText)
     num+=1
-    likeCount.innerHTML = num + ` Likes`    
+    likeCount.innerHTML = num + `Likes`    
     }
 
 const handleSubmit = (e) => {
