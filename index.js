@@ -4,7 +4,7 @@ const newBearForm = document.querySelector(".form")
 const handleLike = (likeCount) => {
     let num = parseInt(likeCount.innerText)
     num+=1
-    likeCount.innerHTML = num + `Likes`    
+    likeCount.innerHTML = num + ` Likes`    
     }
 
 const handleSubmit = (e) => {
@@ -61,7 +61,7 @@ const renderBears = (bearObj) => {
 const fetchData = () => {
     fetch("http://localhost:3000/carebears")
        .then(response => response.json())
-       .then(data => data.forEach(renderBears))
+       .then(bearObj => bearObj.forEach(renderBears))
     }
 
 fetchData()
